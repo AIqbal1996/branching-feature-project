@@ -6,3 +6,8 @@ def welcome():
 
 
 welcome()
+
+def profile():
+    print("Profile feature added")
+profile()
+
