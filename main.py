@@ -6,3 +6,7 @@ def welcome():
 
 
 welcome()
+
+def dashboard():
+    print("Dashboard feature added")
+dashboard()
