@@ -6,3 +6,7 @@ def welcome():
 
 
 welcome()
+
+def login():
+   print("Login feature added")
+login()
